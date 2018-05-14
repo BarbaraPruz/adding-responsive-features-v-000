@@ -71,6 +71,11 @@
     padding: 60px 0 0;
   }
   #social {
-    padding: 60px 0 0;
+    top: 60px;
+  }
+}
+@media only screen and (max-width: 495px) {
+  #logo h2 {
+    visibility: hidden;
   }
 }
